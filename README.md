@@ -4,9 +4,10 @@ A simple Android app which allows for scanning of documents similar to apps like
 
 ## Screenshots
 
-![One](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/1.png)
-![Two](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/2.png)
-![Three](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/3.png)
+![Screenshot](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/1.png)
+![Screenshot](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/4.png)
+![Screenshot](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/2.png)
+![Screenshot](https://raw.githubusercontent.com/jbttn/SimpleDocumentScanner-Android/master/screenshots/3.png)
 
 ## Details
 
